@@ -1864,7 +1864,8 @@ section.features-section {
 .section__title {
   direction: rtl;
   font-size: 31px;
-  margin-right: 0px;
+  margin-top: 11px;
+  margin-right: -13px;
 }
 
 .carousel-container {
