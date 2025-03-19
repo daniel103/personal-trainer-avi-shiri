@@ -424,7 +424,7 @@ span {
 
 .class__content p {
   margin-top: 5px;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   color: var(--text-light);
 }
 
@@ -746,6 +746,13 @@ section.features-section {
   padding: 1rem;
 }
 
+#text-p {
+  margin-top: -20px;
+}
+
+#contact-text {
+  margin-top: -22px;
+}
 .feature-card {
   background-color: rgba(0, 0, 0, 0.3);
   border: 1px solid rgba(255, 255, 255, 0.1);
@@ -1203,7 +1210,7 @@ section.features-section {
   width: 100%;
   max-width: 900px;
   margin: auto;
-  margin-left: 18.6% !important;
+  margin-left: 21% !important;
   position: relative;
 }
 .slider {
@@ -1432,7 +1439,7 @@ section.features-section {
   width: 100%;
   max-width: 900px;
   margin: auto;
-  margin-left: 18.6% !important;
+  margin-left: 20.7% !important;
   position: relative;
 }
 
@@ -1878,5 +1885,9 @@ section.features-section {
 
 .carousel-item img {
   margin-left: 64px;
+}
+.class__content p {
+  width: 80%;
+  margin-right: 29px !important;
 }
 }
